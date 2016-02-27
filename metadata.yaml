@@ -1,0 +1,17 @@
+_repo: French-Cave-Paintings_249
+description: ''
+gutenberg_issued: '1995-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '249'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Cave paintings -- France -- Vallon-Pont-d''Arc'
+- !lcsh 'Chauvet Cave (France)'
+- !lcc 'N'
+- !lcsh 'Art, Prehistoric -- France -- Vallon-Pont-d''Arc'
+title: French Cave Paintings
+url: http://www.gutenberg.org/ebooks/249
