@@ -1,5 +1,5 @@
 _repo: French-Cave-Paintings_249
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -19,5 +19,6 @@ subjects:
 - !lcsh 'Chauvet Cave (France)'
 - !lcc 'N'
 - !lcsh 'Art, Prehistoric -- France -- Vallon-Pont-d''Arc'
+- GITenberg
 title: French Cave Paintings
 url: http://www.gutenberg.org/ebooks/249
